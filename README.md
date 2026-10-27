@@ -1,2 +1,6 @@
 # DataSciAIAssignmentRepo
 Repo for the DataScience AI Assignment
+
+Response:
+  Before doing this assignment, I assumed that the AI would always get it right on the first try without the need for much repeated specification. Through doing the assignment, I needed to specify multiple things, such as colors, not to add additional information, and the correct order to do things. An example of this would be that when creating the graphs, I needed to specify that the colors should be red and green, something that I overlooked in the original prompt. After specifying this once, the AI decided to continue this coloring and did not need it to be specified again. I ended up verifying everything by visually looking at each graph and comparing to what I did originally. 
+    A potential danger I see in using AI without learning how to use it is not knowing what to correct. When making the k-NN model, the AI automatically added some sort of correcting function which I had to go back and explicitly tell it not to do. If I just took the AI's word for what it is and added this function to the assignment, I would not have been able to explain what the AI did. This is also a general problem with just copy pasting AI instead of learning. Through copy pasting, you would not be able to actually learn or explain what each line of code does.
